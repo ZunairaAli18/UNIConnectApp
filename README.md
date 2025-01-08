@@ -2,21 +2,21 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-Available Scripts
+**Available Scripts**
 
 In the project directory, you can run:
 
-npm start
+**npm start**
 
-Runs the app in development mode. Open http://localhost:3000 to view it in your browser.
+Runs the app in development mode. Open [http://localhost:3000](http://localhost:3000/) to view it in your browser.
 
 The page will reload when you make changes. You may also see lint errors in the console.
 
-npm test
+**npm test**
 
 Launches the test runner in interactive watch mode. See the running tests section for more information.
 
-npm run build
+**npm run build**
 
 Builds the app for production and outputs it to the build folder.
 
@@ -28,9 +28,9 @@ Minifies the code and includes hashed filenames.
 
 Your app will be ready for deployment.
 
-For more information, see the deployment guide.
+For more information, see the [deployment guide](https://create-react-app.dev/docs/deployment/).
 
-npm run eject
+**npm run eject**
 
 Note: This is a one-way operation. Once you eject, you cannot go back.
 
@@ -38,23 +38,23 @@ This command removes the single build dependency from your project, copying all 
 
 All other scripts will still work after ejecting, but they will refer to the copied files.
 
-Learn More
+**Learn More**
 
 To learn more about Create React App, refer to the official documentation.
 
-Additional Resources
+**Additional Resources**
 
-React Documentation: Learn the fundamentals of React.
+[React Documentation](https://react.dev/): Learn the fundamentals of React.
 
-Code Splitting: Optimize your app by splitting code into smaller bundles.
+[Code Splitting][(https://create-react-app.dev/docs/code-splitting/): Optimize your app by splitting code into smaller bundles.
 
-Analyzing the Bundle Size: Understand and reduce your app's bundle size.
+[Analyzing the Bundle Size](https://create-react-app.dev/docs/analyzing-the-bundle-size/): Understand and reduce your app's bundle size.
 
-Making a Progressive Web App: Convert your app into a PWA.
+[Making a Progressive Web App](https://create-react-app.dev/docs/making-a-progressive-web-app/): Convert your app into a PWA.
 
-Advanced Configuration: Customize the configuration of your project.
+[Advanced Configuration](https://create-react-app.dev/docs/advanced-configuration/): Customize the configuration of your project.
 
-Troubleshooting
+**Troubleshooting**
 
-Build Fails to Minify: Solutions for issues during the build process.
+[Build Fails to Minify](https://create-react-app.dev/docs/troubleshooting/#npm-run-build-fails-to-minify): Solutions for issues during the build process.
 
